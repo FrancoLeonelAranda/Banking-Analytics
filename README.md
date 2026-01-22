@@ -44,6 +44,9 @@ Los datos se obtienen desde una base **SQL Server**, consultada mediante `pyodbc
 ## Estructura del Repositorio
 ```
 Banking-Analytics/
+├── data/
+│   └── Banking.csv
+│
 ├── notebooks/
 │   └── banking_case.ipynb
 │
