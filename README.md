@@ -42,16 +42,16 @@ Los datos se obtienen desde una base **SQL Server**, consultada mediante `pyodbc
 ---
 
 ## Estructura del Repositorio
+```
 Banking-Analytics/
-│
 ├── notebooks/
-│ └── banking_case.ipynb
+│   └── banking_case.ipynb
 │
 ├── sql/
-│ └── create_database.sql
+│   └── create_database.sql
 │
 └── README.md
-
+```
 
 ## Análisis Realizado
 
