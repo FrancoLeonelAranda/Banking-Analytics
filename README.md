@@ -29,7 +29,7 @@ Los datos se obtienen desde una base **SQL Server**, consultada mediante `pyodbc
 
 ---
 
-## 🧰 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 - **Python**
 - **Pandas**
 - **NumPy**
@@ -41,7 +41,7 @@ Los datos se obtienen desde una base **SQL Server**, consultada mediante `pyodbc
 
 ---
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 Banking-Analytics/
 │
 ├── notebooks/
@@ -53,25 +53,25 @@ Banking-Analytics/
 └── README.md
 
 
-## 🔍 Análisis Realizado
+## Análisis Realizado
 
-### 1️⃣ Análisis Descriptivo
+### Análisis Descriptivo
 - Estadísticas resumen de variables numéricas
 - Verificación de tipos de datos
 - Chequeo de valores faltantes
 
-### 2️⃣ Feature Engineering
+### Feature Engineering
 - Creación de la variable **Income Band** mediante cuantiles sobre `Estimated_Income`
 
-### 3️⃣ Análisis Univariado
+### Análisis Univariado
 - Distribución de variables categóricas
 - Histogramas de variables numéricas clave
 
-### 4️⃣ Análisis Bivariado
+### Análisis Bivariado
 - Comparación de variables categóricas por nacionalidad
 - Exploración de relaciones entre variables financieras
 
-### 5️⃣ Análisis de Correlación
+### Análisis de Correlación
 - Matriz de correlación entre variables numéricas
 - Identificación de relaciones fuertes entre saldos bancarios
 
