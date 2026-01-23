@@ -52,6 +52,9 @@ Banking-Analytics/
 │
 ├── sql/
 │   └── create_database.sql
+|
+├──dashboard/
+|   └── .gitkeep
 │
 └── README.md
 ```
